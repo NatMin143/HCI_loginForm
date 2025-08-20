@@ -1,8 +1,8 @@
 /* Note: I created this Login Form with the help of AI to speed up the development process, 
-   since my laptop was not available and I couldn’t code as easily. For this assignment, 
+   since my laptop was not available and I couldn’t code as easily in my phone. For this assignment, 
    I chose this approach to save time. However, I want to assure you sir that I already 
    know how to build this from scratch, as I have developed several web applications 
-   in the past. I also modified parts of the generated code to match my own design preferences. */
+   in the past. I also modified parts of the generated code to match my own design preferences. I just want to inform you sir for honesty*/
 
 
 "use client"
